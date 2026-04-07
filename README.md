@@ -1,5 +1,5 @@
 #CNN-Apriori-Evaluation-Validation_GlobalPollutionAnalysis-EnergyRecovery
-
+---
 
 ## Overview
 This project focuses on extracting meaningful insights from large-scale environmental datasets using a combination of data analysis, pattern mining, and deep learning techniques.
